@@ -39,9 +39,10 @@ p
 {
  border: "1";
 }
-tema
+textarea
 {
-  
+  height:"600"
+  width:"400"
 }
 
 topco
